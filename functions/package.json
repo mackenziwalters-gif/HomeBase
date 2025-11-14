@@ -1,0 +1,9 @@
+{ 
+  "name": "chore-quest-functions",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": { 
+    "firebase-admin": "^11.0.0",
+    "firebase-functions": "^4.0.0" 
+  } 
+}

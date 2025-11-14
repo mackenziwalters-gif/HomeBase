@@ -1,0 +1,27 @@
+# Flutter
+**/build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+.idea/
+.vscode/
+*.iml
+
+# Android
+local.properties
+/android/.gradle/
+
+# iOS
+**/Flutter/Flutter.framework
+**/Flutter/Flutter.podspec
+ios/Pods/
+ios/Runner.xcworkspace/
+
+# Node
+node_modules/
+
+# Misc
+.DS_Store
+.env
